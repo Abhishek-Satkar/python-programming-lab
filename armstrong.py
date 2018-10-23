@@ -1,4 +1,4 @@
-
+#Abhishek Satkar  11810805 M 52
 
 x=int(input("Enter number"))
 s=0
