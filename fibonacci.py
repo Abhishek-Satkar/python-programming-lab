@@ -1,3 +1,8 @@
+
+#Abhishek Satkar
+#11810805
+#M 52
+
 n=int(input("Enter limit=>"))
 l=[]
 a=0
