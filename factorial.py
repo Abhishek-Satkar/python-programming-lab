@@ -1,3 +1,7 @@
+#Abhishek Satkar
+#11810805
+#M 52
+
 n=int(input("Enter number of terms"))
 if n<=0:
  print("invalid")
